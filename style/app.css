@@ -36,7 +36,10 @@
 /* --main-fg:#b4b4b4; */
 /* --main-fg2:#00ff00; */
 };
-
+@font-face {
+  font-family: "Rose-Tinted";
+  src: url('../assets/Rose-Tinted_Regular_v1.1.otf');
+}
 * {
   font-family: 'Fira Code', Courier, monospace;
   padding: 0;
