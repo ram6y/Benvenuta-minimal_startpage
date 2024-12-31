@@ -38,7 +38,7 @@
 };
 @font-face {
   font-family: "Rose-Tinted";
-  src: url('../assets/Rose-Tinted_Regular_v1.1.otf');
+  src: url('Rose-Tinted_Regular_v1.1.otf');
 }
 * {
   font-family: 'Rose-Tinted', Courier, monospace;
