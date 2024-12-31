@@ -14,8 +14,5 @@ function showTables(buttonNumber) {
   } else if (buttonNumber === 3) {
     document.getElementById("table5").classList.remove("hidden");
     document.getElementById("table6").classList.remove("hidden");
-  } else if (buttonNumber === 4) {
-    document.getElementById("table7").classList.remove("hidden");
-    document.getElementById("table8").classList.remove("hidden");
-  }
+  } 
 }
